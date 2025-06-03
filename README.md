@@ -7,6 +7,37 @@
   <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square" alt="Contributions">
 </div>
 
+## Slayt Gösterisi
+
+### Slayt 10
+![Slayt 10](https://github.com/zehrakolsuz/deneme2/raw/main/10.png)
+
+### Slayt 11
+![Slayt 11](https://github.com/USERNAME/REPO/raw/main/11.png)
+
+...
+
+### Slayt 48
+![Slayt 48](https://github.com/USERNAME/REPO/raw/main/48.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Project Name
 *Proje Adı*
 
